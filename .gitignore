@@ -229,3 +229,15 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.rar
+*.png
+*.jpg
+*.avi
+颜色.txt
+*.pptx
+*.pdf
+*.vcxproj
+*.filters
+*.caj
+*.txt
+*.sln
